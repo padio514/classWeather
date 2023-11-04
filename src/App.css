@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://png.pngtree.com/background/20210711/original/pngtree-hand-drawn-blue-sky-white-clouds-weather-forecast-illustration-background-picture-image_1137685.jpg);
+    height: 100vh;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.weather-box {
+    border: 3px solid #171817;
+    padding: 50px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
